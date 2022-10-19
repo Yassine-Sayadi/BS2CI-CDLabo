@@ -1,3 +1,3 @@
 FROM tomcat
 
-COPY ROOT.war /usr/local/tomcat/webapps/
+COPY project-web2-Yassine-Sayadi-1.0-SNAPSHOT.war /usr/local/tomcat/webapps/
